@@ -1,0 +1,17 @@
+## Gitconfig
+
+```
+
+user.name=Gaurav Singh
+user.email=gs1293@gmail.com
+color.ui=auto
+color.status=auto
+color.branch=auto
+core.editor=/usr/bin/vim
+merge.tool=vimdiff
+http.sslverify=false
+https.sslverify=false
+branch.autosetuprebase=always
+url.http://.insteadof=https://
+
+```
