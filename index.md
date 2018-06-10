@@ -45,7 +45,9 @@
 
 <a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://gs1293.github.io/'); window.open('https://github.com/')" href="https://www.reddit.com/" target="_blank">Shortcut to daily reading </a>
 
-<ul class="yourlinks">
-    <li><a href="http://www.google.com/"></li>
-    <li><a href="http://www.yahoo.com/"></li>
+<ul class="links">
+<li><a href="http://www.google.com/"></a></li>
+<li><a href="http://www.yahoo.com/"></a></li>
 </ul>
+
+<a id="open-all" href="#">OPEN ALL</a>
