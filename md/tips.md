@@ -25,3 +25,11 @@
     ```
 
   - ### [Force git to clone with "https://" instead of "git://" urls](https://coderwall.com/p/sitezg/force-git-to-clone-with-https-instead-of-git-urls)
+
+  - ### [GitHub - Delete commits history with git commands](https://gist.github.com/heiswayi/350e2afda8cece810c0f6116dadbe651)
+
+  - ### [Configuring a publishing source for GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+
+  - ### [GitHub Pages - Embedding audio](https://github.com/etianen/html5media/wiki/embedding-audio)
+
+  - ### [Keep gh-pages up to date with a master branch](https://gist.github.com/mandiwise/44d1edce18f2ffb14f63)
