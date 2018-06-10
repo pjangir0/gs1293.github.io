@@ -42,3 +42,5 @@
   - ### [Fun](md/fun.md)
   - ### [Music](https://gs1293.github.io/music/)
   - ### [Wallpapers](https://gs1293.github.io/wallpapers/)
+
+  <a onclick="window.open('https://engineerphilosophy.com/category/javascript/'); window.open('https://engineerphilosopy.com/category/angular/')" href="https://engineerphilosophy.com/category/html/" target="_blank">Engineer philosophy HTML related links </a>
