@@ -1,5 +1,9 @@
 <link rel="icon" href="https://gs1293.github.io/favicon.ico?v=2"/>
 
+<a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://www.reddit.com/')" href="https://github.com/" target="_blank">Shortcut to daily reading </a>
+
+---
+
   - ### [Vimrc](md/vimrc.md)
   - ### [Bashrc](md/bashrc.md)
   - ### [Inputrc](md/inputrc.md)
@@ -42,12 +46,3 @@
   - ### [Fun](md/fun.md)
   - ### [Music](https://gs1293.github.io/music/)
   - ### [Wallpapers](https://gs1293.github.io/wallpapers/)
-
-<a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://gs1293.github.io/'); window.open('https://github.com/')" href="https://www.reddit.com/" target="_blank">Shortcut to daily reading </a>
-
-<ul class="links">
-<li><a href="http://www.google.com/"></a></li>
-<li><a href="http://www.yahoo.com/"></a></li>
-</ul>
-
-<a id="open-all" href="#">OPEN ALL</a>
