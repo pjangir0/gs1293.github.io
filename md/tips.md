@@ -8,9 +8,13 @@
     rlwrap -c tclsh
     ```
 
-  - ### [Download .deb package of the latest build of Sublime Text](https://stackoverflow.com/questions/44336646/find-deb-file-of-sublime-text-build-3132)
+  - ### [Download .deb package of the latest build of Sublime Text](https://download.sublimetext.com/latest/dev/linux/x64/deb)
 
-  - ### [Set up folder sharing in virtualbox](https://askubuntu.com/questions/323392/how-to-access-shared-folders-in-ubuntu-vmoracle-virtualbox-and-link-them-to-th)
+  - ### Set up folder sharing in VirtualBox
+
+    ```
+    sudo usermod -G vboxsf -a <username>
+    ```  
 
   - ### [Diffing of two files efficiently](https://stackoverflow.com/questions/16423024/how-can-i-diff-2-files-while-ignoring-leading-white-space)
 
