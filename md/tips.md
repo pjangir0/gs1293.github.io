@@ -22,10 +22,8 @@
 
   - ### No Certificate Check for **curl**
 
-    Create a .curlrc file whose contents are:
-
     ```
-    insecure
+    echo "insecure" > .curlrc
     ```
 
   - ### [Force git to clone with "https://" instead of "git://" urls](https://coderwall.com/p/sitezg/force-git-to-clone-with-https-instead-of-git-urls)
