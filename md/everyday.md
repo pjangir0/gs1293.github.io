@@ -21,6 +21,7 @@
   - [Electronic Design](http://www.electronicdesign.com/)
   - [Tipsonubuntu](http://tipsonubuntu.com/)
   - [Coderwall](https://coderwall.com/)
+  
 ## Blogs  
 
   - [Thoughtbot](https://robots.thoughtbot.com/)
