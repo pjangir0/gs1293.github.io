@@ -1,6 +1,6 @@
 <link rel="icon" href="https://gs1293.github.io/favicon.ico?v=2"/>
 
-<a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://www.reddit.com/')" href="https://github.com/" target="_blank">Daily Reading </a>
+<a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://www.reddit.com/')" href="https://github.com/" target="_blank">Daily Reading  <font size="+2">This is bigger text.</font> </a>
 
 <a onclick="window.open('https://www.tvtime.com/en'); window.open('https://psarips.com/category/tv-show/');  window.open('https://thepiratebay.org/'); window.open('http://snahp.it/')" href="https://animetosho.org/" target="_blank">Daily Downloading </a>
 
