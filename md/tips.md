@@ -8,23 +8,23 @@
     rlwrap -c tclsh
     ```
 
-  - ### [Download .deb package of the latest build of Sublime Text](https://download.sublimetext.com/latest/dev/linux/x64/deb)
-
   - ### Set up folder sharing in VirtualBox
 
     ```
     sudo usermod -G vboxsf -a <username>
     ```  
 
-  - ### [Diffing of two files efficiently](https://stackoverflow.com/questions/16423024/how-can-i-diff-2-files-while-ignoring-leading-white-space)
-
-  - ### [Copying specific subfolders with directory structure to a new folder](https://unix.stackexchange.com/questions/99309/copying-specific-subfolders-with-directory-structure-to-a-new-folder)
-
   - ### No Certificate Check for **curl**
 
     ```
     echo "insecure" > .curlrc
     ```
+
+  - ### [Download .deb package of the latest build of Sublime Text](https://download.sublimetext.com/latest/dev/linux/x64/deb)
+
+  - ### [Diffing of two files efficiently](https://stackoverflow.com/questions/16423024/how-can-i-diff-2-files-while-ignoring-leading-white-space)
+
+  - ### [Copying specific subfolders with directory structure to a new folder](https://unix.stackexchange.com/questions/99309/copying-specific-subfolders-with-directory-structure-to-a-new-folder)
 
   - ### [Force git to clone with "https://" instead of "git://" urls](https://coderwall.com/p/sitezg/force-git-to-clone-with-https-instead-of-git-urls)
 
