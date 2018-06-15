@@ -52,3 +52,6 @@
   <iframe width="420" height="315"
   src="https://www.youtube.com/embed/tgbNymZ7vqY">
   </iframe>
+
+  img { border-radius: 50%; }
+  <img src="gaurav.png" alt="Avatar">
