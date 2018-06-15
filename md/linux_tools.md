@@ -11,6 +11,13 @@
 | find        | search for files in a directory hierarchy                     |                         |             |
 | whereis     | locate the binary, source and manual page files for a command |                         |             |
 | which       | locate a command                                              |                         |             |
+| pwd         |                                                               |                         |             |
+| cd          |                                                               |                         |             |
+| ls          |                                                               |                         |             |
+| touch       |                                                               |                         |             |
+| cat         |                                                               |                         |             |
+| more        | file perusal filter for crt viewing                           |                         |             |
+| less        | opposite of more                                              |                         |             |
 | file        | determine file type                                           |                         |             |
 | grep        | print lines matching a pattern                                |                         |             |
 | tar         | an archiving utility                                          |                         |             |
@@ -20,8 +27,6 @@
 | man         | an interface to the on-line reference manuals                 |                         |             |
 | head        | output the first part of files                                |                         |             |
 | tail        | output the last part of files                                 |                         |             |
-| less        | opposite of more                                              |                         |             |
-| more        | file perusal filter for crt viewing                           |                         |             |
 | chmod       | change file mode bits                                         |                         |             |
 | chown       | change file owner and group                                   |                         |             |
 | rsync       | a fast, versatile, remote/local file-copying tool             |                         |             |
