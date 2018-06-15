@@ -16,6 +16,14 @@
 | ls          |                                                               |                         |             |
 | touch       |                                                               |                         |             |
 | cat         |                                                               |                         |             |
+| cp          |                                                               |                         |             |
+| mkdir       |                                                               |                         |             |
+| history     |                                                               |                         |             |
+| rm          |                                                               |                         |             |
+| help        |                                                               |                         |             |
+| man         |                                                               |                         |             |
+| whatis      |                                                               |                         |             |
+| exit        |                                                               |                         |             |
 | more        | file perusal filter for crt viewing                           |                         |             |
 | less        | opposite of more                                              |                         |             |
 | file        | determine file type                                           |                         |             |
