@@ -24,6 +24,8 @@
 | man         |                                                               |                         |             |
 | whatis      |                                                               |                         |             |
 | exit        |                                                               |                         |             |
+| tee         |                                                               |                         |             |
+| exit        |                                                               |                         |             |
 | more        | file perusal filter for crt viewing                           |                         |             |
 | less        | opposite of more                                              |                         |             |
 | file        | determine file type                                           |                         |             |
