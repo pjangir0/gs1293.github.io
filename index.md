@@ -3,3 +3,5 @@
 ## [Blog](blog.md)
 
 ## [Resource Compilation](resource.md)
+
+## [About me](about.md)
