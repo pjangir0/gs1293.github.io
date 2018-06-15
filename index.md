@@ -53,5 +53,4 @@
   src="https://www.youtube.com/embed/tgbNymZ7vqY">
   </iframe>
 
-  img { border-radius: 50%; }
-  <img src="gaurav.png" alt="Avatar">
+<img src="gaurav.png" alt="my-image" class="circular-image" />
