@@ -2,7 +2,7 @@
 
   - ### For backspace and arrow keys to work in Tcl/Tk
 
-    ```
+    ```bash
     sudo apt-get install rlwrap
     sudo apt-get install tkcon
     rlwrap -c tclsh
@@ -10,16 +10,23 @@
 
   - ### Set up folder sharing in VirtualBox
 
-    ```
+    ```bash
     sudo usermod -G vboxsf -a <username>
     ```  
 
   - ### No Certificate Check for **curl**
 
-    ```
+    ```bash
     echo "insecure" > .curlrc
     ```
 
+  - ### Embed youtube video in HTML
+
+    ```html
+    <iframe width="420" height="315"
+    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    </iframe>
+    ```
   - ### [Download .deb package of the latest build of Sublime Text](https://download.sublimetext.com/latest/dev/linux/x64/deb)
 
   - ### [Diffing of two files efficiently](https://stackoverflow.com/questions/16423024/how-can-i-diff-2-files-while-ignoring-leading-white-space)
