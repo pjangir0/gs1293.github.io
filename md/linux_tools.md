@@ -24,7 +24,9 @@
 | man             |                                                               |                         |             |
 | whatis          |                                                               |                         |             |
 | exit            |                                                               |                         |             |
-| tee             |                                                               |                         |             |
+| pipe/tee        |                                                               |                         |             |
+| env             |                                                               |                         |             |
+| stdin/out/err   |                                                               |                         |             |
 | cut             |                                                               |                         |             |
 | paste           |                                                               |                         |             |
 | expand/unexpand |                                                               |                         |             |
