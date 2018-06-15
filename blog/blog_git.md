@@ -24,11 +24,21 @@ git config --global --list
 
 ### Important commands
 
+git init
+
+git clone <link>
+
 git add .
 
 git commit -m "commit message"
 
+git log
+
 git status
+
+git remote
+
+git remote add origin <link>
 
 git push
 
@@ -37,3 +47,7 @@ git branch <branch-name>
 git checkout <branch-name>
 
 git pull
+
+git show
+
+git diff
