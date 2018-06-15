@@ -53,4 +53,8 @@
   src="https://www.youtube.com/embed/tgbNymZ7vqY">
   </iframe>
 
-<img src="gaurav.png" alt="my-image" class="circular-image" />
+  .img-circle {
+      border-radius: 50%;
+  }
+
+<img class="img-circle" src="gaurav.png" >
