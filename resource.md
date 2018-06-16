@@ -50,3 +50,4 @@
   - ### [Fun](md/fun.md)
   - ### [Music](https://gs1293.github.io/music/)
   - ### [Wallpapers](https://gs1293.github.io/wallpapers/)
+  - ### [Tax related stuff](md/tax.md)
