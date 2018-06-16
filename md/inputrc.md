@@ -1,4 +1,10 @@
-## READLINE SETTINGS
+<p align="center">
+  <b>
+  <font size="+2">inputrc</font>
+  </b>
+</p>
+
+---
 
 ```
 

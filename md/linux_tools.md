@@ -1,4 +1,10 @@
-## Important Linux Tools List
+<p align="center">
+  <b>
+  <font size="+2">Important Linux Tools List</font>
+  </b>
+</p>
+
+---
 
 ### Default
 

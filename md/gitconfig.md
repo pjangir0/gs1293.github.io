@@ -1,4 +1,10 @@
-## Gitconfig
+<p align="center">
+  <b>
+  <font size="+2">gitconfig</font>
+  </b>
+</p>
+
+---
 
 ```
 

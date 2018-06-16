@@ -1,4 +1,10 @@
-## Extensions List
+<p align="center">
+  <b>
+  <font size="+2">Extensions List</font>
+  </b>
+</p>
+
+---
 
   - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
   - [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh)  

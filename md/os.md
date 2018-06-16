@@ -1,4 +1,10 @@
-## List of important OS's
+<p align="center">
+  <b>
+  <font size="+2">List of Important OS's</font>
+  </b>
+</p>
+
+---
 
   - [Ubuntu](https://www.ubuntu.com/)
   - [ArchLinux](https://www.archlinux.org/)

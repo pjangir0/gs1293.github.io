@@ -1,4 +1,10 @@
-## Just for FUN
+<p align="center">
+  <b>
+  <font size="+2">Just for fun</font>
+  </b>
+</p>
+
+---
 
   - [Trex runner](http://wayou.github.io/t-rex-runner/)
 
