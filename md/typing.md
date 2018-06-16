@@ -5,4 +5,5 @@
   - [Typing](https://www.typing.com/)  
   - [Typeracer](http://play.typeracer.com/)
   - [Typenconquer](https://typenconquer.io/)  
-  - [Keybr](https://www.keybr.com/)  
+  - [Keybr](https://www.keybr.com/)
+  - [TheTypingCat](http://thetypingcat.com/) 

@@ -2,7 +2,7 @@
 
 # Resource Compilation
 
-<a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://www.reddit.com/')" href="https://github.com/" target="_blank"> <font size="+1">Daily Reading</font> </a>
+<a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://www.inoreader.com/welcome'); window.open('https://www.reddit.com/')" href="https://github.com/" target="_blank"> <font size="+1">Daily Reading</font> </a>
 
 <a onclick="window.open('https://www.tvtime.com/en'); window.open('https://psarips.com/category/tv-show/');  window.open('https://thepiratebay.org/'); window.open('http://snahp.it/')" href="https://animetosho.org/" target="_blank"> <font size="+1">Daily Downloading</font> </a>
 

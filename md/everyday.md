@@ -4,6 +4,7 @@
   - [Reddit](https://www.reddit.com/)
   - [Espncricinfo](http://www.espncricinfo.com/)
   - [Google news](https://news.google.com/)
+  - [Inoreader](https://www.inoreader.com/welcome)
   - [Omgubuntu](https://www.omgubuntu.co.uk/)
   - [Medium](https://medium.com/)
   - [Opensource](https://opensource.com)
