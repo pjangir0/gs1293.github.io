@@ -50,7 +50,6 @@
   - [YTD](https://www.ytddownloader.com/)
   - [IDM](https://www.internetdownloadmanager.com/)
   - [JDownloader](http://jdownloader.org/)
-  - [Popcorn Time](https://popcorntime.sh/)
   - [WinRar](https://www.win-rar.com/start.html?&L=0)
   - [Virtual Box](https://www.virtualbox.org/)
   - [Airdroid](https://web.airdroid.com/)

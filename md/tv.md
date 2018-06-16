@@ -15,6 +15,17 @@
   - [Letterboxd](https://letterboxd.com/)
   - [Fmovies](https://www5.fmovies.se/)
   - [123moviestube](https://www1.123moviestube.io/)
+  - [YesMovies](http://www1.yesmovies.net/home.html)
+  - [Streamlord](http://www.streamlord.com/)
+  - [Solarmoviez](https://solarmoviez.ru/)
+  - [PutLockerTV](https://www2.putlockertv.to/)
+  - [Cine.to](https://cine.to/)
+  - [1movies](https://www1.1movies.se/)
+  - [Gomovies](https://www2.gomovies.film/)
+  - [Leonflix](https://leonflix.net/)
+  - [Popcorn Time](https://popcorntime.sh/)
+  - [Dailyflix](https://board.dailyflix.one/)
+  - [Moviehaven](http://moviehaven.xyz/)
 
 ## Cartoons
 
@@ -25,7 +36,10 @@
 
   - [Myanimelist](https://myanimelist.net/)
   - [Kissanime](http://kissanime.ru/)
+  - [Anime Twist](https://twist.moe/)
   - [9anime](https://www4.9anime.is/)
+  - [Watchcartoononline](https://www.watchcartoononline.io/)
+  - [Alternatives to Kiss* websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives)
   - [Kissmanga](http://kissmanga.com/)
   - [Mangarock](https://mangarock.com/)
   - [Animencodes](https://www.animencodes.com/)
