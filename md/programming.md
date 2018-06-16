@@ -120,6 +120,7 @@
   - [Computer Vision](https://www.cs.toronto.edu/~urtasun/courses/CV/cv.html)
   - [Upscaling image with generative adversarial neural networks](http://geoffreylitt.com/2017/06/04/enhance-upscaling-images-with-generative-adversarial-neural-networks.html)
   - [Introduction to Machine Learning](http://nptel.ac.in/courses/106106139/)
+  - [What is AI](https://enpointer.com/blog/what-is-artificial-intelligence/)
 
 ## Python
 
@@ -128,6 +129,7 @@
   - [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [The Python Tutorial](https://docs.python.org/3/tutorial/)
+  - [RealPython](https://realpython.com/)
 
 ## Others
 
@@ -141,4 +143,8 @@
   - [Write Android Apps](http://lifehacker.com/i-want-to-write-android-apps-where-do-i-start-1643818268)
   - [Android development with Android Studio](http://www.vogella.com/tutorials/Android/article.html)
   - [Learn to Code](http://lifehacker.com/5744113/learn-to-code-the-full-beginners-guide)
-  - [Which Programming Language Should I Learn First?](http://lifehacker.com/which-programming-language-should-i-learn-first-1477153665)  
+  - [Which Programming Language Should I Learn First?](http://lifehacker.com/which-programming-language-should-i-learn-first-1477153665)
+
+## HTML
+
+  - [w3schools](https://www.w3schools.com/default.asp)

@@ -6,6 +6,14 @@
   - [United States Patent and Trademark Office](http://patft.uspto.gov/netahtml/PTO/index.html)
   - [HTTrack](https://www.httrack.com/)
   - [Syncthing](https://syncthing.net/)
+  - [Have I Been Pawned](https://haveibeenpwned.com/)
+  - [Alternativeto](https://alternativeto.net/)
+  - [Mailinator](http://www.mailinator.com/)
+  - [Cymath](https://www.cymath.com/)
+  - [Gwiki](https://www.gwiki.io/)
+  - [GetLinkInfo](http://www.getlinkinfo.com/)
+  - [Start.me](https://start.me/start/in/start-page)
+  - [Openculture](http://www.openculture.com/)
 
 ## Aptitude
 
@@ -25,8 +33,6 @@
 
 ## Extras
 
-  - [Tax Tutorials](http://www.incometaxindia.gov.in/Pages/tutorials.aspx)
-  - [Taxation in India for FY 2017-18](https://www.bankbazaar.com/tax.html)
   - [Battery of HP Pavilion 15-au006tx](https://h30434.www3.hp.com/t5/Notebook-Hardware-and-Upgrade-Questions/Battery-of-HP-Pavilion-15-au006tx-suddenly-stopped-working/m-p/6373491)
   - [HP India Authorized Service Centers And Service Partners](http://www8.hp.com/in/en/support-drivers/contact-centers/commercial/north.html#Noida)
   - [VGA_timing.pdf](http://www.dmi.unict.it/~santoro/teaching/sdl/slides/VGA_timing.pdf)

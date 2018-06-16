@@ -33,6 +33,8 @@
   - [Vim bootstrap](https://vim-bootstrap.com/)
   - [Vim Golf](http://vimgolf.com/)
   - [Linting your code, the vanilla way](https://gist.github.com/romainl/ce55ce6fdc1659c5fbc0f4224fd6ad29)
+  - [Vim Colors](http://vimcolors.com/)
+  - [Vim is the Perfect IDE](https://hackernoon.com/vim-is-the-perfect-ide-c226d7ed6d88)
 
 ## Important Vim features to remember
 

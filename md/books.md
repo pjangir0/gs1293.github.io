@@ -15,3 +15,4 @@
   - [10 most popular programming books on stackoverflow](https://fossbytes.com/10-most-popular-programming-books-on-stackoverflow/)
   - [Top 100 books part three](http://www.catonmat.net/blog/top-100-books-part-three/)
   - [Internet Archive](https://archive.org/)
+  - [PDF Drive](https://www.pdfdrive.net/)

@@ -20,6 +20,7 @@
 
   - [VLC](https://www.videolan.org/)
   - [PotPlayer](https://potplayer.daum.net/)
+  - [PotPlayer Settings](https://wiki.mikejung.biz/PotPlayer)
   - [KMPlayer](http://www.kmplayer.com/)
   - [GOMPlayer](http://www.gomlab.com/)
   - [MPC-HC](https://mpc-hc.org/)
@@ -54,3 +55,4 @@
   - [Virtual Box](https://www.virtualbox.org/)
   - [Airdroid](https://web.airdroid.com/)
   - [Music Bee](https://getmusicbee.com/)
+  - [Asciinema](https://asciinema.org/)

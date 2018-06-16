@@ -23,6 +23,7 @@
   - [Tipsonubuntu](http://tipsonubuntu.com/)
   - [Coderwall](https://coderwall.com/)
   - [TechNotification](https://www.technotification.com/)
+  - [Digg](http://digg.com/)
 
 ## Blogs  
 
