@@ -46,6 +46,7 @@
   - [Build Cheat Sheets](https://www.cheatography.com/)
   - [TutoriaLinux](https://tutorialinux.com/)
   - [sjl / dotfiles / source / — Bitbucket](https://bitbucket.org/sjl/dotfiles/src)
+  - [WTFutil](https://wtfutil.com/)
 
 ## Make
 
@@ -80,6 +81,7 @@
   - [Learn Shell Programming](http://www.learnshell.org/)
   - [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
   - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
+  - [Bashrc Generator](http://bashrcgenerator.com/)
 
 ## Github
 
@@ -121,6 +123,9 @@
   - [Upscaling image with generative adversarial neural networks](http://geoffreylitt.com/2017/06/04/enhance-upscaling-images-with-generative-adversarial-neural-networks.html)
   - [Introduction to Machine Learning](http://nptel.ac.in/courses/106106139/)
   - [What is AI](https://enpointer.com/blog/what-is-artificial-intelligence/)
+  - [Andrew Ng - Machine Learning](https://www.coursera.org/learn/machine-learning)
+  - [Practical Deep Learning For Coders MOOC](http://forums.fast.ai/)
+  - [Making neural nets uncool again](http://www.fast.ai/)
 
 ## Python
 
@@ -136,6 +141,7 @@
   - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
   - [Geeksforgeeks](https://www.geeksforgeeks.org/)
   - [Programming on Stream](https://programmingon.stream/)
+  - [Foundations of Software Engineering](https://www.cs.colorado.edu/~kena/classes/5828/f15/lectures/)
 
 ## Coding
 

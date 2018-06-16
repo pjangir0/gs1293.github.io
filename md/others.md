@@ -13,7 +13,6 @@
   - [Gwiki](https://www.gwiki.io/)
   - [GetLinkInfo](http://www.getlinkinfo.com/)
   - [Start.me](https://start.me/start/in/start-page)
-  - [Openculture](http://www.openculture.com/)
 
 ## Aptitude
 

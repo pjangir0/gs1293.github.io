@@ -16,6 +16,8 @@
   - [Tutsplus](https://tutsplus.com/)
   - [Teach yourself CS](https://teachyourselfcs.com/)
   - [Introductory Programming Courses](https://ocw.mit.edu/courses/intro-programming/)
+  - [Openculture](http://www.openculture.com/)
+  - [Canvas Network](https://www.canvas.net/)
 
 ## Course list
 

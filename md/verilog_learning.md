@@ -16,6 +16,7 @@
   - [ASIC](http://asic.co.in/)  
   - [ASIC digitaldesign](https://asicdigitaldesign.wordpress.com/)  
   - [Project VeriPage](http://www.project-veripage.com/index.php)  
+  - [ClueLogic](http://cluelogic.com/)
 
 ## Others
 
