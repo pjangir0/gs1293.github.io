@@ -1,4 +1,10 @@
-## Torrent providers
+<p align="center">
+  <b>
+  <font size="+2">Torrent Providers</font>
+  </b>
+</p>
+
+---
 
   - [TPB](https://thepiratebay.org/)
   - [BT4G](https://bt4g.com/)  

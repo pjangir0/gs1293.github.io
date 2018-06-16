@@ -1,4 +1,10 @@
-## Useful links
+<p align="center">
+  <b>
+  <font size="+2">Useful Links</font>
+  </b>
+</p>
+
+---
 
   - [Vimcasts](http://vimcasts.org/)
   - [Vi-improved](https://www.vi-improved.org/)
@@ -36,7 +42,15 @@
   - [Vim Colors](http://vimcolors.com/)
   - [Vim is the Perfect IDE](https://hackernoon.com/vim-is-the-perfect-ide-c226d7ed6d88)
 
-## Important Vim features to remember
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Important Vim features to remember</font>
+  </b>
+</p>
+
+---
 
 ```
 

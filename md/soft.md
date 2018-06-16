@@ -1,4 +1,10 @@
-## Editors List
+<p align="center">
+  <b>
+  <font size="+2">Editor's List</font>
+  </b>
+</p>
+
+---
 
   - [Vim](https://www.vim.org/)
   - [Neovim](https://neovim.io/)  
@@ -16,7 +22,15 @@
   - [Codemirror](https://codemirror.net/index.html)
   - [Ace](https://ace.c9.io/)
 
-## Video Players List
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Video Player's List</font>
+  </b>
+</p>
+
+---
 
   - [VLC](https://www.videolan.org/)
   - [PotPlayer](https://potplayer.daum.net/)
@@ -25,7 +39,15 @@
   - [GOMPlayer](http://www.gomlab.com/)
   - [MPC-HC](https://mpc-hc.org/)
 
-## Torrent software List
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Torrent Software List</font>
+  </b>
+</p>
+
+---
 
   - [WebTorrent](https://webtorrent.io/)
   - [uTorrent](https://www.utorrent.com/utweb-index)
@@ -34,13 +56,29 @@
   - [Bittorrent](http://www.bittorrent.com/)
   - [qBittorrent](https://www.qbittorrent.org/)
 
-## Browsers list
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Browser's List</font>
+  </b>
+</p>
+
+---
 
   - [Google Chrome](https://www.google.com/chrome/)
   - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
   - [Vivaldi](https://vivaldi.com/?lang=en)
 
-## Others
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Others</font>
+  </b>
+</p>
+
+---
 
   - [Honeyview](https://www.bandisoft.com/honeyview/)
   - [Speccy](https://www.ccleaner.com/speccy)

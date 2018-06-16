@@ -1,4 +1,10 @@
-## Blogs
+<p align="center">
+  <b>
+  <font size="+2">Blogs</font>
+  </b>
+</p>
+
+---
 
   - [VLSI Expert](http://www.vlsi-expert.com/)
   - [Verification Excellence](http://verificationexcellence.in/)
@@ -18,7 +24,15 @@
   - [Project VeriPage](http://www.project-veripage.com/index.php)  
   - [ClueLogic](http://cluelogic.com/)
 
-## Others
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Others</font>
+  </b>
+</p>
+
+---
 
   - [ENEE 359a: Digital VLSI Circuits by B. Jacob](http://www.ece.umd.edu/class/enee359a/)
   - [Verilog Hardware Description Language, An Introductory Course](http://vol.verilog.com/VOL/main.htm)  

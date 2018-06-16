@@ -1,4 +1,10 @@
-## Social Networking
+<p align="center">
+  <b>
+  <font size="+2">Social Networking</font>
+  </b>
+</p>
+
+---
 
   - [Facebook](https://www.facebook.com/)
   - [9gag](https://9gag.com/)

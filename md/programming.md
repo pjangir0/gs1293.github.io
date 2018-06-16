@@ -1,4 +1,10 @@
-## Online Programming Practice
+<p align="center">
+  <b>
+  <font size="+2">Online Programming Practice</font>
+  </b>
+</p>
+
+---
 
   - [Hackerrank](https://www.hackerrank.com/)
   - [Spoj](http://www.spoj.com/)
@@ -24,7 +30,15 @@
   - [Dash](https://dash.generalassemb.ly/)
   - [Code Snipcademy](https://code.snipcademy.com/)
 
-## Linux
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Linux</font>
+  </b>
+</p>
+
+---
 
   - [Linux Journey](https://linuxjourney.com/)
   - [Linux 101 Hacks](https://linux.101hacks.com/)
@@ -48,19 +62,43 @@
   - [sjl / dotfiles / source / — Bitbucket](https://bitbucket.org/sjl/dotfiles/src)
   - [WTFutil](https://wtfutil.com/)
 
-## Make
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Make</font>
+  </b>
+</p>
+
+---
 
   - [Dont Fear the Makefile](https://maex.me/2018/02/dont-fear-the-makefile/)
   - [GNU make: Top](https://www.gnu.org/software/make/manual/html_node/index.html)
 
-## Regex
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Regex</font>
+  </b>
+</p>
+
+---
 
   - [An introduction to regular expressions](http://regex.bastardsbook.com/)
   - [RegexOne - Learn Regular Expressions](https://regexone.com/)
   - [Regex Crossword](https://regexcrossword.com/)
   - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
 
-## Command Line Tools
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Command Line Tools</font>
+  </b>
+</p>
+
+---
 
   - [Xiki](http://xiki.org/)
   - [Pandoc](http://pandoc.org/)
@@ -69,7 +107,15 @@
   - [SpeedCrunch](http://www.speedcrunch.org/)
   - [The UNIX School: awk & sed](http://www.theunixschool.com/p/awk-sed.html)
 
-## Bash
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Bash</font>
+  </b>
+</p>
+
+---
 
   - [The Bash Guide](https://guide.bash.academy/)
   - [Shell Scripting Tutorial](https://www.shellscript.sh/index.html)
@@ -83,7 +129,15 @@
   - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
   - [Bashrc Generator](http://bashrcgenerator.com/)
 
-## Github
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Github</font>
+  </b>
+</p>
+
+---
 
   - [Github Pages Tutorial](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html)
   - [Build blog using Jekyll Github Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
@@ -100,7 +154,15 @@
   - [Github on demand](https://services.github.com/on-demand/)
   - [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 
-## Markdown
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Markdown</font>
+  </b>
+</p>
+
+---
 
   - [Markdownpad](http://markdownpad.com/)
   - [Markdownguide](https://www.markdownguide.org/)
@@ -109,12 +171,28 @@
   - [Markdown Guide](https://about.gitlab.com/handbook/product/technical-writing/markdown-guide/)
   - [Turndown : HTML to Markdown](http://domchristie.github.io/turndown/)
 
-## Data Structures and Algorithms
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Data Structures and Algorithms</font>
+  </b>
+</p>
+
+---
 
   - [CSE241_SP08](http://www.cse.wustl.edu/video/lectures/CSE241_SP08/uncompressed/)
   - [CSE241_FL07](http://www.cse.wustl.edu/video/lectures/CSE241_FL07/uncompressed/)
 
-## Machine Learning
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Machine Learning</font>
+  </b>
+</p>
+
+---
 
   - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/ml17/)
   - [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
@@ -127,7 +205,15 @@
   - [Practical Deep Learning For Coders MOOC](http://forums.fast.ai/)
   - [Making neural nets uncool again](http://www.fast.ai/)
 
-## Python
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Python</font>
+  </b>
+</p>
+
+---
 
   - [Learnpythonthehardway](https://learnpythonthehardway.org/book/)
   - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html#)
@@ -136,14 +222,30 @@
   - [The Python Tutorial](https://docs.python.org/3/tutorial/)
   - [RealPython](https://realpython.com/)
 
-## Others
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Others</font>
+  </b>
+</p>
+
+---
 
   - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
   - [Geeksforgeeks](https://www.geeksforgeeks.org/)
   - [Programming on Stream](https://programmingon.stream/)
   - [Foundations of Software Engineering](https://www.cs.colorado.edu/~kena/classes/5828/f15/lectures/)
 
-## Coding
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Coding</font>
+  </b>
+</p>
+
+---
 
   - [Develop Apps](http://developer.android.com/develop/index.html)
   - [Write Android Apps](http://lifehacker.com/i-want-to-write-android-apps-where-do-i-start-1643818268)
@@ -151,7 +253,15 @@
   - [Learn to Code](http://lifehacker.com/5744113/learn-to-code-the-full-beginners-guide)
   - [Which Programming Language Should I Learn First?](http://lifehacker.com/which-programming-language-should-i-learn-first-1477153665)
 
-## HTML
+---
+
+<p align="center">
+  <b>
+  <font size="+2">HTML</font>
+  </b>
+</p>
+
+---
 
   - [w3schools](https://www.w3schools.com/default.asp)
 

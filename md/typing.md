@@ -1,4 +1,10 @@
-## Improve Typing Speed
+<p align="center">
+  <b>
+  <font size="+2">Improve Typing Speed</font>
+  </b>
+</p>
+
+---
 
   - [10fastfingers](https://10fastfingers.com/typing-test/english)
   - [Ratatype](https://www.ratatype.com/)  

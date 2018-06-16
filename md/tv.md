@@ -1,4 +1,10 @@
-## TV
+<p align="center">
+  <b>
+  <font size="+2">TV</font>
+  </b>
+</p>
+
+---
 
   - [TVTime](https://www.tvtime.com/en)
   - [Hotstar](http://www.hotstar.com/)
@@ -10,7 +16,15 @@
   - [Scene-rls](http://scene-rls.net/category/tv-packs/)
   - [Bitdownload](http://bitdownload.ir/)
 
-## Movies
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Movies</font>
+  </b>
+</p>
+
+---
 
   - [Letterboxd](https://letterboxd.com/)
   - [Fmovies](https://www5.fmovies.se/)
@@ -27,12 +41,28 @@
   - [Dailyflix](https://board.dailyflix.one/)
   - [Moviehaven](http://moviehaven.xyz/)
 
-## Cartoons
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Cartoons</font>
+  </b>
+</p>
+
+---
 
   - [Kimcartoon](http://kimcartoon.me/)
   - [Readcomiconline](http://readcomiconline.to/)
 
-## Anime
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Anime</font>
+  </b>
+</p>
+
+---
 
   - [Myanimelist](https://myanimelist.net/)
   - [Kissanime](http://kissanime.ru/)
@@ -57,7 +87,15 @@
   - [Manga-downloader](https://bitbucket.org/Red_Squirrel/manga-downloader/downloads/)
   - [The Ultimate One Piece Timeline](https://thelibraryofohara.com/)
 
-## Games
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Games</font>
+  </b>
+</p>
+
+---
 
   - [Fitgirl](http://fitgirl-repacks.site/)
   - [PCgames-download](https://pcgames-download.com/)

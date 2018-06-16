@@ -1,4 +1,10 @@
-## Useful links
+<p align="center">
+  <b>
+  <font size="+2">Useful Links</font>
+  </b>
+</p>
+
+---
 
   - [Symbolab](https://www.symbolab.com/)
   - [Wolframalpha](http://www.wolframalpha.com/)  
@@ -14,7 +20,15 @@
   - [GetLinkInfo](http://www.getlinkinfo.com/)
   - [Start.me](https://start.me/start/in/start-page)
 
-## Aptitude
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Aptitude</font>
+  </b>
+</p>
+
+---
 
   - [Placement Adda](http://placementadda.com/)
   - [Coding Interview preparation](https://www.interviewbit.com/)
@@ -30,7 +44,15 @@
   - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk/)
   - [Loss, Latency, and Speed - TN0021](http://www.dataexpedition.com/support/notes/tn0021.html)
 
-## Extras
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Extras</font>
+  </b>
+</p>
+
+---
 
   - [Battery of HP Pavilion 15-au006tx](https://h30434.www3.hp.com/t5/Notebook-Hardware-and-Upgrade-Questions/Battery-of-HP-Pavilion-15-au006tx-suddenly-stopped-working/m-p/6373491)
   - [HP India Authorized Service Centers And Service Partners](http://www8.hp.com/in/en/support-drivers/contact-centers/commercial/north.html#Noida)

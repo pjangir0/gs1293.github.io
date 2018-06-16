@@ -1,4 +1,10 @@
-### Tax guidelines
+<p align="center">
+  <b>
+  <font size="+2">Tax Guidelines</font>
+  </b>
+</p>
+
+---
 
  - [Your complete guide on how to file income tax returns](https://www.dailyo.in/business/itr-filing-income-tax-returns-home-loan-itr-v-finance-act/story/1/24775.html)
  - [Tax Tutorials](http://www.incometaxindia.gov.in/Pages/tutorials.aspx)

@@ -1,4 +1,10 @@
-## Important Tips
+<p align="center">
+  <b>
+  <font size="+2">Important Tips</font>
+  </b>
+</p>
+
+---
 
   - ### For backspace and arrow keys to work in Tcl/Tk
 

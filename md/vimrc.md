@@ -1,4 +1,10 @@
-## VIMRC
+<p align="center">
+  <b>
+  <font size="+2">vimrc</font>
+  </b>
+</p>
+
+---
 
 ```vim
 
