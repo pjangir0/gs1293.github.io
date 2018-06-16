@@ -55,7 +55,7 @@
   - [Gendou](http://gendou.com/)
   - [HSDownloadManager](http://mitchgordon.me/HSDownloadManager/)
   - [Manga-downloader](https://bitbucket.org/Red_Squirrel/manga-downloader/downloads/)
-  - [The Ultimate One Piece Timeline](https://thelibraryofohara.com/2018/05/14/one-piece-timeline/)
+  - [The Ultimate One Piece Timeline](https://thelibraryofohara.com/)
 
 ## Games
 

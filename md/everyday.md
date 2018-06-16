@@ -24,6 +24,7 @@
   - [Coderwall](https://coderwall.com/)
   - [TechNotification](https://www.technotification.com/)
   - [Digg](http://digg.com/)
+  - [The musings of bluz71](https://bluz71.github.io/)
 
 ## Blogs  
 
