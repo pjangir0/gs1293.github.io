@@ -35,7 +35,7 @@
 ---
 
   - ### [Projects](md/projects.md)
-  - ### [Important software](md/imp_soft.md)
+  - ### [Important software](md/soft.md)
   - ### [Tips](md/tips.md)
   - ### [OS](md/os.md)
 
