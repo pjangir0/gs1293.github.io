@@ -1,4 +1,10 @@
-## VERILOG
+<p align="center">
+  <b>
+  <font size="+2">Verilog</font>
+  </b>
+</p>
+
+---
 
 ### Important things to remember
 

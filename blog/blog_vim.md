@@ -1,4 +1,10 @@
-## VIM
+<p align="center">
+  <b>
+  <font size="+2">Vim</font>
+  </b>
+</p>
+
+---
 
 Vim is a highly configurable text editor for efficiently creating and changing any kind of text.
 Vim is rock stable and is continuously being developed to become even better.

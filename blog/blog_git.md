@@ -1,4 +1,10 @@
-## GIT
+<p align="center">
+  <b>
+  <font size="+2">Git</font>
+  </b>
+</p>
+
+---
 
 ### Config Setup
 

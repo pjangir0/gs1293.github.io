@@ -1,4 +1,10 @@
-## BASH
+<p align="center">
+  <b>
+  <font size="+2">Bash</font>
+  </b>
+</p>
+
+---
 
 ### Tools to install
 
