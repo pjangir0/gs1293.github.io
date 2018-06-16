@@ -1,4 +1,10 @@
-## Courses to study
+<p align="center">
+  <b>
+  <font size="+2">Courses to Study</font>
+  </b>
+</p>
+
+---
 
   - [NPTEL](http://nptel.ac.in/)
   - [Free Video Lectures](https://freevideolectures.com/)
@@ -19,7 +25,15 @@
   - [Openculture](http://www.openculture.com/)
   - [Canvas Network](https://www.canvas.net/)
 
-## Course list
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Course List</font>
+  </b>
+</p>
+
+---
 
   - [Introduction to CS](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
   - [Introduction to Programming](http://www.souravsengupta.com/int2pro2014/index.html)

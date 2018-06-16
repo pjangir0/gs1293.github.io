@@ -1,4 +1,10 @@
-## Websites to find books
+<p align="center">
+  <b>
+  <font size="+2">Websites to find books</font>
+  </b>
+</p>
+
+---
 
   - [Library Genesis](https://sites.google.com/site/themetalibrary/library-genesis)
   - [IT-ebooks](http://it-ebooks.info/)

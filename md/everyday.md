@@ -1,4 +1,10 @@
-## Everyday Reading
+<p align="center">
+  <b>
+  <font size="+2">Everyday Reading</font>
+  </b>
+</p>
+
+---
 
   - [Fossbytes](https://fossbytes.com/)
   - [Reddit](https://www.reddit.com/)
@@ -26,7 +32,15 @@
   - [Digg](http://digg.com/)
   - [The musings of bluz71](https://bluz71.github.io/)
 
-## Blogs  
+---
+
+<p align="center">
+  <b>
+  <font size="+2">Blogs</font>
+  </b>
+</p>
+
+---  
 
   - [Thoughtbot](https://robots.thoughtbot.com/)
   - [Today I Learned](https://til.hashrocket.com/)

@@ -1,4 +1,10 @@
-## Cheatsheets
+<p align="center">
+  <b>
+  <font size="+2">Cheatsheets</font>
+  </b>
+</p>
+
+---
 
 ### Vim
 

@@ -1,4 +1,10 @@
-## BASH SETTINGS
+<p align="center">
+  <b>
+  <font size="+2">bashrc</font>
+  </b>
+</p>
+
+---
 
 ```bash
 
