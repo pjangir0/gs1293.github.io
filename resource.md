@@ -57,3 +57,11 @@
   - ### [Music](https://gs1293.github.io/music/)
   - ### [Wallpapers](https://gs1293.github.io/wallpapers/)
   - ### [Tax related stuff](md/tax.md)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

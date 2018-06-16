@@ -21,3 +21,11 @@
   - [Panda 5 - News & Inspiration Dashboard](https://chrome.google.com/webstore/detail/panda-5-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko)  
   - [No Coin - Block miners on the web](https://chrome.google.com/webstore/detail/no-coin-block-miners-on-t/gojamcfopckidlocpkbelmpjcgmbgjcl)  
   - [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)  
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

@@ -6,4 +6,12 @@
   - [Typeracer](http://play.typeracer.com/)
   - [Typenconquer](https://typenconquer.io/)  
   - [Keybr](https://www.keybr.com/)
-  - [TheTypingCat](http://thetypingcat.com/) 
+  - [TheTypingCat](http://thetypingcat.com/)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

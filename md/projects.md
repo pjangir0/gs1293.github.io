@@ -7,3 +7,11 @@
   - [HEVC code tracing -Quadtree](https://www.camdemy.com/media/17885)  
   - [HEVC code tracing RDO](https://www.camdemy.com/media/17892)  
   - [Motion Estimation diagram](https://www.hindawi.com/journals/ijrc/2012/473725/fig1/)  
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

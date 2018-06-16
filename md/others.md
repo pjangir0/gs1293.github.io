@@ -39,3 +39,11 @@
   - [Netlify](https://www.netlify.com/)
   - [Vivify](http://bytefluent.com/vivify/)
   - [WSL Tips and Tricks](https://www.hanselman.com/blog/TheYearOfLinuxOnTheWindowsDesktopWSLTipsAndTricks.aspx)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

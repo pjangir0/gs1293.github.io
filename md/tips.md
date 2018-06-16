@@ -44,3 +44,11 @@
   - ### [Keep gh-pages up to date with a master branch](https://gist.github.com/mandiwise/44d1edce18f2ffb14f63)
 
   - ### [Generate list of manually installed packages in linux](https://askubuntu.com/questions/2389/generating-list-of-manually-installed-packages-and-querying-individual-packages)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

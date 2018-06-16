@@ -103,3 +103,11 @@ make new aliases to use latest vim.
 vim verilog mode
 
 ```
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

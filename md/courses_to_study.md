@@ -23,3 +23,11 @@
 
   - [Introduction to CS](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
   - [Introduction to Programming](http://www.souravsengupta.com/int2pro2014/index.html)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

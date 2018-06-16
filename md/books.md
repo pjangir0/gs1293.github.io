@@ -16,3 +16,11 @@
   - [Top 100 books part three](http://www.catonmat.net/blog/top-100-books-part-three/)
   - [Internet Archive](https://archive.org/)
   - [PDF Drive](https://www.pdfdrive.net/)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

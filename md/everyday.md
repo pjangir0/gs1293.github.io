@@ -38,3 +38,11 @@
   - [Geek sanctum](https://sanctum.geek.nz/arabesque/)
   - [Adrianmejia](https://adrianmejia.com/#home)
   - [Programminghistorian](https://programminghistorian.org/)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

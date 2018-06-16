@@ -61,3 +61,11 @@
 
   - [Fitgirl](http://fitgirl-repacks.site/)
   - [PCgames-download](https://pcgames-download.com/)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>

@@ -57,3 +57,11 @@ vim --version
   - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim)
   - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange)
   - [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim)
+
+---
+
+<p align="center">
+  <b>
+  <a href="https://gs1293.github.io/blog.html"> <font size="-1">Go Back</font></a>
+  </b>
+</p>
