@@ -2,11 +2,11 @@
 
 <p align="center">
   <img width="200" height="200" src="gaurav.png"><br>
-  <b>Some Links:</b><br>
-  <a href="blog.md">Blog</a> |
-  <a href="resource.md">Resources</a> |
-  <a href="about.md">About</a>
-  <br><br>
+  <b>
+  <a href="https://gs1293.github.io/blog.html">Blog</a> |
+  <a href="https://gs1293.github.io/resource.html">Resources</a> |
+  <a href="https://gs1293.github.io/about.html">About</a>
+  </b>
 </p>
 
 
