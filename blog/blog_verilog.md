@@ -2,7 +2,7 @@
 
 ### Important things to remember
 
-Signed operations
+[Signed operations](http://www.tumbush.com/published_papers/Tumbush%20DVCon%2005.pdf)
 
 Division vs Shift (including signed numbers)
 
