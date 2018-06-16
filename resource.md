@@ -1,6 +1,12 @@
 <link rel="icon" href="https://gs1293.github.io/favicon.ico?v=2"/>
 
-# Resource Compilation
+<p align="center">
+  <b>
+  <font size="+3">Resource Compilation</font>
+  </b>
+</p>
+
+---
 
 <a onclick="window.open('https://fossbytes.com/'); window.open('https://news.google.com/news/');  window.open('http://www.espncricinfo.com/'); window.open('https://www.inoreader.com/welcome'); window.open('https://www.reddit.com/')" href="https://github.com/" target="_blank"> <font size="+1">Daily Reading</font> </a>
 
