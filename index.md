@@ -6,7 +6,7 @@
   <a href="https://gs1293.github.io/blog.html"> <font size="+2">Blog</font></a> <font size="+2">|</font>
   <a href="https://gs1293.github.io/resource.html"> <font size="+2">Resources</font></a> <font size="+2">|</font>
   <a href="https://gs1293.github.io/about.html"> <font size="+2">About</font></a>
-  <br><br><br>
+  <br>
   <img src="https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif">
   </b>
 </p>
