@@ -14,49 +14,49 @@
 
 ---
 
-  - ### [Vimrc](md/vimrc.md)
-  - ### [Bashrc](md/bashrc.md)
-  - ### [Inputrc](md/inputrc.md)
-  - ### [Gitconfig](md/gitconfig.md)
-  - ### [Cheatsheets](md/cheatsheets.md)
+  - ### [Vimrc](resource/vimrc.md)
+  - ### [Bashrc](resource/bashrc.md)
+  - ### [Inputrc](resource/inputrc.md)
+  - ### [Gitconfig](resource/gitconfig.md)
+  - ### [Cheatsheets](resource/cheatsheets.md)
 
 ---
 
-  - ### [Learning Vim](md/vim_learning.md)
-  - ### [Learning Verilog](md/verilog_learning.md)
-  - ### [Command line tools](md/linux_tools.md)
-  - ### [Typing](md/typing.md)
+  - ### [Learning Vim](resource/vim_learning.md)
+  - ### [Learning Verilog](resource/verilog_learning.md)
+  - ### [Command line tools](resource/linux_tools.md)
+  - ### [Typing](resource/typing.md)
 
 ---
 
-  - ### [Programming](md/programming.md)
-  - ### [Courses to study](md/courses_to_study.md)
-  - ### [Websites to find books](md/books.md)
+  - ### [Programming](resource/programming.md)
+  - ### [Courses to study](resource/courses_to_study.md)
+  - ### [Websites to find books](resource/books.md)
   - ### [Books Compilation](https://gs1293.github.io/books/)
 
 ---
 
-  - ### [Everyday Reading](md/everyday.md)
+  - ### [Everyday Reading](resource/everyday.md)
 
 ---
 
-  - ### [Projects](md/projects.md)
-  - ### [Important software](md/soft.md)
-  - ### [Tips](md/tips.md)
-  - ### [OS](md/os.md)
+  - ### [Projects](resource/projects.md)
+  - ### [Important software](resource/soft.md)
+  - ### [Tips](resource/tips.md)
+  - ### [OS](resource/os.md)
 
 ---
 
-  - ### [Social Networking](md/social.md)
-  - ### [TV/Movies/Cartoons/Anime/Games](md/tv.md)
-  - ### [Downloads](md/download.md)
-  - ### [Torrents](md/torrents.md)
-  - ### [Extensions](md/extensions.md)
-  - ### [Other useful links](md/others.md)
-  - ### [Fun](md/fun.md)
+  - ### [Social Networking](resource/social.md)
+  - ### [TV/Movies/Cartoons/Anime/Games](resource/tv.md)
+  - ### [Downloads](resource/download.md)
+  - ### [Torrents](resource/torrents.md)
+  - ### [Extensions](resource/extensions.md)
+  - ### [Other useful links](resource/others.md)
+  - ### [Fun](resource/fun.md)
   - ### [Music](https://gs1293.github.io/music/)
   - ### [Wallpapers](https://gs1293.github.io/wallpapers/)
-  - ### [Tax related stuff](md/tax.md)
+  - ### [Tax related stuff](resource/tax.md)
 
 ---
 
