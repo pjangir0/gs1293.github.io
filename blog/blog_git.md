@@ -8,6 +8,8 @@
 
 ### Config Setup
 
+```bash
+
 git config --global user.name "Gaurav Singh"
 
 git config --global user.email "gs1293@gmail.com"
@@ -28,7 +30,11 @@ git config --global rebase.autoStash true
 
 git config --global --list
 
+```
+
 ### Important commands
+
+```bash
 
 git init
 
@@ -39,6 +45,8 @@ git add .
 git commit -m "commit message"
 
 git log
+
+git log --oneline
 
 git status
 
@@ -57,6 +65,8 @@ git pull
 git show
 
 git diff
+
+```
 
 ---
 

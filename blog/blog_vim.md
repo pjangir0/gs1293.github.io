@@ -18,6 +18,34 @@ integrates with many tools
 Check the version of Vim install in your system by :
 vim --version
 
+## Motions
+
+0/^
+
+$/g_
+
+w/W
+
+e/E
+
+b/B
+
+f/F/t/T + ;/,
+
+Ctrl-I / Ctrl-O
+
+## Normal Mode
+
+## Insert Mode
+
+## Visual Mode
+
+## Command Mode
+
+## Operating Pending Mode
+
+## Text Objects
+
 ## Plugins List
 
 ### Essential

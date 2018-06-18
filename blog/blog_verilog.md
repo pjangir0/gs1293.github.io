@@ -14,7 +14,7 @@ Division vs Shift (including signed numbers)
 
 Memory read write timing
 
-Create instances of module
+Easily Create instances of module
 
 Snippets
 
