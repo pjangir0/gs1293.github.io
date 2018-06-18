@@ -122,6 +122,6 @@ vim verilog mode
 
 <p align="center">
   <b>
-  <a href="https://gs1293.github.io/resource.html"> <font size="-1">Go Back</font></a>
+  <a href="https://gs1293.github.io/resource/resource.html"> <font size="-1">Go Back</font></a>
   </b>
 </p>

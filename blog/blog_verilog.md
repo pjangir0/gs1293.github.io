@@ -30,6 +30,6 @@ Asynchronous FIFO
 
 <p align="center">
   <b>
-  <a href="https://gs1293.github.io/blog.html"> <font size="-1">Go Back</font></a>
+  <a href="https://gs1293.github.io/blog/blog.html"> <font size="-1">Go Back</font></a>
   </b>
 </p>
