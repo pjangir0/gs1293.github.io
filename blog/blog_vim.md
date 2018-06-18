@@ -46,6 +46,30 @@ Ctrl-I / Ctrl-O
 
 ## Text Objects
 
+a/iw
+
+a/iW
+
+a/is
+
+a/ip
+
+a/i"
+
+a/i'
+
+a/i\`
+
+a/i)
+
+a/i]
+
+a/i}
+
+a/it
+
+a/i>
+
 ## Plugins List
 
 ### Essential
