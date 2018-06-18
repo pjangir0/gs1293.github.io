@@ -39,6 +39,7 @@
 | join/split      |                                                               |                         |             |
 | sort            |                                                               |                         |             |
 | uniq            |                                                               |                         |             |
+| seq             |                                                               |                         |             |
 | tr              |                                                               |                         |             |
 | wc              |                                                               |                         |             |
 | exit            |                                                               |                         |             |
