@@ -1,4 +1,4 @@
-<link rel="icon" href="https://gs1293.github.io/image/favicon.ico?v=2"/>
+<link rel="icon" href="https://gs1293.github.io/favicon.ico?v=2"/>
 
 <p align="center">
   <img width="200" height="200" src="image/gaurav.png"><br>
