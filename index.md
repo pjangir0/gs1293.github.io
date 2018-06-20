@@ -19,3 +19,9 @@
     <a href="#">Link 3</a>
   </div>
 </div>
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<details>
