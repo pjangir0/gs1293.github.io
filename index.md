@@ -5,23 +5,9 @@
   <b>
   <a href="https://gs1293.github.io/blog/blog.html"> <font size="+2">Blog</font></a> <font size="+2">|</font>
   <a href="https://gs1293.github.io/resource/resource.html"> <font size="+2">Resources</font></a> <font size="+2">|</font>
+  <a href="https://gs1293.github.io/todo.html"> <font size="+2">ToDo</font></a> <font size="+2">|</font>
   <a href="https://gs1293.github.io/about/about.html"> <font size="+2">About</font></a>
   <br><br>
   <img src="https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif">
   </b>
 </p>
-
-<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-</div>
-
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-<details>
