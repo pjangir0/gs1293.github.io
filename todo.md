@@ -1,6 +1,6 @@
 To do :
 
-1. Create a dropdown menu/button.
+Create a dropdown menu/button.
 
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
@@ -11,10 +11,10 @@ To do :
   </div>
 </div>
 
-2. Create a dropdown text.
+Create a dropdown text.
 
 <details>
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
-<details>
+</details>
